@@ -14,7 +14,7 @@
                                     </div>
                         </div>
                         <div class="col-5 b-rder">
-                            <div class="footer_content">
+                            <div class="footer_content" data-attr="abc">
                                 <p>
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 
                                 </p>
